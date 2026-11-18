@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url><loc>https://www.wbuk.net/</loc><lastmod>2026-11-18</lastmod><changefreq>monthly</changefreq><priority>1.0</priority>
+    <image:image><image:loc>https://www.wbuk.net/assets/img/wbuk-uk-hospitality-consultancy-og.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.wbuk.net/assets/img/uk-hotel-entrance-night-union-flag.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.wbuk.net/assets/img/hotel-lobby-lounge-uk.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.wbuk.net/assets/img/restaurant-plated-dish-and-wine.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.wbuk.net/assets/img/gastro-pub-busy-bar.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.wbuk.net/assets/img/aged-care-older-couple.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.wbuk.net/assets/img/private-hospital-surgeons-theatre.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.wbuk.net/assets/img/catering-buffet-chafing-dishes.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.wbuk.net/assets/img/hospitality-consultants-meeting-hotel-lounge.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.wbuk.net/assets/img/business-analysis-laptop-spend-data.webp</image:loc></image:image>
+  </url>
+  <url><loc>https://www.wbuk.net/procurement-services/</loc><lastmod>2026-11-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <image:image><image:loc>https://www.wbuk.net/assets/img/hotel-lobby-lounge-uk.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.wbuk.net/assets/img/restaurant-plated-dish-and-wine.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.wbuk.net/assets/img/gastro-pub-busy-bar.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.wbuk.net/assets/img/hospitality-consultants-meeting-hotel-lounge.webp</image:loc></image:image>
+  </url>
+  <url><loc>https://www.wbuk.net/book-a-consultation/</loc><lastmod>2026-11-18</lastmod><changefreq>monthly</changefreq><priority>0.9</priority>
+  </url>
+</urlset>
